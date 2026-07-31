@@ -209,7 +209,7 @@ BookHub
 ## 🚀 Splash Screen
 
 ```text
-screenshots/splash.PNG
+![Splash](./screenshots/splash.PNG)
 ```
 
 ---
@@ -217,7 +217,7 @@ screenshots/splash.PNG
 ## 🏠 Home Screen
 
 ```text
-screenshots/home.PNG
+![Login](./screenshots/login.PNG)
 ```
 
 ---
@@ -225,7 +225,7 @@ screenshots/home.PNG
 ## 🔐 Login Screen
 
 ```text
-screenshots/login.PNG
+![Home](./screenshots/home.PNG)
 ```
 
 ---
@@ -233,7 +233,7 @@ screenshots/login.PNG
 ## 📝 Signup Screen
 
 ```text
-screenshots/signup.PNG
+![SignUp](./screenshots/signup.PNG)
 ```
 
 ---
@@ -241,7 +241,7 @@ screenshots/signup.PNG
 ## 📖 Book Details
 
 ```text
-screenshots/book-details.PNG
+![Book-Details](./screenshots/book-details.PNG)
 ```
 
 ---
@@ -249,15 +249,14 @@ screenshots/book-details.PNG
 ## ❤️ Wishlist
 
 ```text
-screenshots/wishlist.PNG
-```
+![Wishlist](./screenshots/wishlist.PNG)
 
 ---
 
 ## 🛒 Shopping Cart
 
 ```text
-screenshots/cart.PNG
+![Cart](./screenshots/cart.PNG)
 ```
 
 ---
@@ -265,7 +264,7 @@ screenshots/cart.PNG
 ## 📦 Checkout
 
 ```text
-screenshots/checkout.PNG
+![Order-Placed](./screenshots/checkout.PNG)
 ```
 
 ---
@@ -273,7 +272,7 @@ screenshots/checkout.PNG
 ## 👨‍💼 Admin Dashboard
 
 ```text
-screenshots/admin-dashboard.PNG
+![Login](./screenshots/login.PNG)
 ```
 
 ---

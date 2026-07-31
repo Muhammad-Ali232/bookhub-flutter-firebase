@@ -1,0 +1,118 @@
+# ================================
+# Flutter / Dart
+# ================================
+
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+.pub-cache/
+build/
+coverage/
+
+# Generated files
+.generated/
+.dart_server/
+.flutter-versions
+
+# ================================
+# IDE
+# ================================
+
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# ================================
+# Android
+# ================================
+
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/local.properties
+android/key.properties
+
+# ================================
+# iOS
+# ================================
+
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/.symlinks/
+ios/Runner.xcworkspace/
+
+# ================================
+# macOS
+# ================================
+
+macos/Pods/
+
+# ================================
+# Linux
+# ================================
+
+linux/flutter/ephemeral/
+
+# ================================
+# Windows
+# ================================
+
+windows/flutter/ephemeral/
+
+# ================================
+# Web
+# ================================
+
+web/flutter_service_worker.js
+
+# ================================
+# Logs
+# ================================
+
+*.log
+*.tmp
+*.lock
+
+# ================================
+# OS Files
+# ================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ================================
+# Backup Files
+# ================================
+
+*.bak
+*.swp
+*.swo
+*~
+
+# ================================
+# Firebase
+# ================================
+
+firebase-debug.log
+firestore-debug.log
+
+# ================================
+# Environment Variables
+# ================================
+
+.env
+.env.*
+
+# ================================
+# Secrets (Never Upload)
+# ================================
+
+service-account.json
+google-services.json.backup
+GoogleService-Info.plist.backup

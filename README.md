@@ -204,76 +204,21 @@ BookHub
 
 # 📱 Application Preview
 
-> **Replace these images with your own screenshots after uploading them to the `screenshots` folder.**
+| Splash Screen | Home Screen |
+|---------------|-------------|
+| ![](./screenshots/splash.PNG) | ![](./screenshots/home.PNG) |
 
-## 🚀 Splash Screen
+| Login Screen | Signup Screen |
+|--------------|---------------|
+| ![](./screenshots/login.PNG) | ![](./screenshots/signup.PNG) |
 
-```text
-![Splash](./screenshots/splash.PNG)
-```
+| Book Details | Wishlist |
+|--------------|-----------|
+| ![](./screenshots/book-details.PNG) | ![](./screenshots/wishlist.PNG) |
 
----
-
-## 🏠 Home Screen
-
-```text
-![Login](./screenshots/login.PNG)
-```
-
----
-
-## 🔐 Login Screen
-
-```text
-![Home](./screenshots/home.PNG)
-```
-
----
-
-## 📝 Signup Screen
-
-```text
-![SignUp](./screenshots/signup.PNG)
-```
-
----
-
-## 📖 Book Details
-
-```text
-![Book-Details](./screenshots/book-details.PNG)
-```
-
----
-
-## ❤️ Wishlist
-
-```text
-![Wishlist](./screenshots/wishlist.PNG)
-
----
-
-## 🛒 Shopping Cart
-
-```text
-![Cart](./screenshots/cart.PNG)
-```
-
----
-
-## 📦 Checkout
-
-```text
-![Order-Placed](./screenshots/checkout.PNG)
-```
-
----
-
-## 👨‍💼 Admin Dashboard
-
-```text
-![Login](./screenshots/login.PNG)
-```
+| Shopping Cart | Checkout |
+|---------------|----------|
+| ![](./screenshots/cart.PNG) | ![](./screenshots/checkout.PNG) |
 
 ---
 
